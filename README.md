@@ -12,10 +12,6 @@ LƯU Ý: Một số kênh như ĐN-NRTV1-2 (Đồng Nai); BTV Bình Dương; BRT
 # Link IPTV mới nhất (lưu ý: chỉ mới cập nhật các kênh VTV, HTV, kênh địa phương ở miền Nam, các kênh ở Bắc và Trung Bộ đang tổng hợp lại.)
 
 ```markdown
+
+
 https://raw.githubusercontent.com/ntdy280205/list-iptv-moi-2025/main/list-iptv-moi-nhat-vn.m3u
-
-
-
-
-
-
