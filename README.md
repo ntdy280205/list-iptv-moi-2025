@@ -1,4 +1,4 @@
-# List IPTV cập nhật theo tên tỉnh thành mới sau sáp nhập (2025)
+# List IPTV Việt Nam cập nhật theo tên tỉnh thành mới sau sáp nhập (2025)
 
 Tôi đã tổng hợp lại và share cho anh em link IPTV mới, cập nhật đầy đủ tên đài và logo mới hưởng ứng theo chủ trương sáp nhập từ 63 --> 34 tỉnh thành của Chính phủ.
 
