@@ -1,8 +1,8 @@
 [
   {
     "name": "VTV1",
-    "logo": "https://i.imgur.com/vZYlGIW.png",
-    "url": "http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8"
+    "logo": "https://i.imgur.com/QiY55sy.png",
+    "url": "https://hls.mskycdn.online/tv/vtv9fhd/index.m3u8"
   },
   {
     "name": "Kênh 2",
@@ -15,3 +15,4 @@
     "url": "https://moctest.com/live/test.m3u8"
   }
 ]
+
