@@ -5,4 +5,5 @@ Tôi đã tổng hợp lại và share cho anh em link IPTV mới, cập nhật 
 # Link IPTV mới nhất (lưu ý: chỉ mới cập nhật các kênh VTV, HTV, kênh địa phương ở miền Nam, các kênh ở Bắc và Trung Bộ đang tổng hợp lại.)
 hẹ hẹ hẹ :D
 
-https://raw.githubusercontent.com/ntdy280205/list-iptv-moi-2025/main/list-iptv-moi-nhat-vn.m3u
+```markdown
+[![Copy Playlist](https://img.shields.io/badge/📋%20Copy-Playlist-blue)](https://raw.githubusercontent.com/ntdy280205/list-iptv-moi-2025/main/list-iptv-moi-nhat-vn.m3u)
