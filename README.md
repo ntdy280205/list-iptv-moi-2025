@@ -6,4 +6,4 @@ Tôi đã tổng hợp lại và share cho anh em link IPTV mới, cập nhật 
 hẹ hẹ hẹ :D
 
 ```markdown
-[![Copy Playlist](https://img.shields.io/badge/📋%20Copy-Playlist-blue)](https://raw.githubusercontent.com/ntdy280205/list-iptv-moi-2025/main/list-iptv-moi-nhat-vn.m3u)
+https://raw.githubusercontent.com/ntdy280205/list-iptv-moi-2025/main/list-iptv-moi-nhat-vn.m3u
