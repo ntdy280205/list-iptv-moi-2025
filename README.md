@@ -10,8 +10,7 @@ LƯU Ý: Một số kênh như ĐN-NRTV1-2 (Đồng Nai); BTV Bình Dương; BRT
 - Copy link .m3u, chọn Add your first playlist, ở mục "or import from URL" dán vào và "Import Playlist"
 
   
-# Link IPTV mới nhất (lưu ý: chỉ mới cập nhật các kênh VTV, HTV, kênh địa phương ở miền Nam, các kênh ở Bắc và Trung Bộ đang tổng hợp lại.)
-
+# Link IPTV mới nhất:
 ```markdown
 
 
