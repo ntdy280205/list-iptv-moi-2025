@@ -12,7 +12,7 @@ https://tv.ddns.vn/tv/vtv5fhd/index.m3u8
 https://tv.ddns.vn/tv/vtv5tnbfhd/index.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNguyen.vn@HD" tvg-logo="https://i.imgur.com/Hlcnqqt.png" group-title="VTV",VTV5 Tây Nguyên
 https://tv.ddns.vn/tv/vtv5tnfhd/index.m3u8
-#EXTINF:-1 tvg-id="VTVCanTho.vn@HD" tvg-logo="https://i.imgur.com/Mqmbsj4.png" group-title="VTV",VTV Cần Thơ
+#EXTINF:-1 tvg-id="VTV6CanTho.vn@HD" tvg-logo="https://i.imgur.com/Mqmbsj4.png" group-title="VTV",VTV Cần Thơ
 https://hls.mskycdn.online/tv/vtvctfhd/index.m3u8
 #EXTINF:-1 tvg-id="VTV7.vn@HD" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="VTV",VTV7
 https://tv.ddns.vn/tv/vtv7fhd/index.m3u8
@@ -124,4 +124,5 @@ https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="CaMau.vn" tvg-logo="https://i.imgur.com/mZTPSg2.png" group-title="Cà Mau",Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
+
 
