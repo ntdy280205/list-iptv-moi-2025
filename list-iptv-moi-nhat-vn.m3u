@@ -24,23 +24,23 @@ https://hls.mskycdn.online/tv/vtv9fhd/index.m3u8
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="QPVN.vn" tvg-logo="pending_url" group-title="Thủ đô Hà Nội",Quốc phòng Việt Nam
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="caobang.vn" tvg-logo="https://imgur.com/RUJmK5D" group-title="Cao Bằng",Cao Bằng
+#EXTINF:-1 tvg-id="caobang.vn" tvg-logo="https://i.imgur.com/RUJmK5D.png" group-title="Cao Bằng",Cao Bằng
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist_w584220747_b584000.m3u8
-#EXTINF:-1 tvg-id="laocai.vn" tvg-logo="https://imgur.com/Vd0P0rx" group-title="Lào Cai",Lào Cai 
+#EXTINF:-1 tvg-id="laocai.vn" tvg-logo="https://i.imgur.com/Vd0P0rx.png" group-title="Lào Cai",Lào Cai 
 https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
-#EXTINF:-1 tvg-id="thainguyen.vn" tvg-logo="https://imgur.com/P3pbab8" group-title="Thái Nguyên",Thái Nguyên
+#EXTINF:-1 tvg-id="thainguyen.vn" tvg-logo="https://i.imgur.com/P3pbab8.png" group-title="Thái Nguyên",Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 tvg-id="langson.vn" tvg-logo="https://imgur.com/WfdtXLi" group-title="Lạng Sơn",Lạng Sơn
+#EXTINF:-1 tvg-id="langson.vn" tvg-logo="https://i.imgur.com/WfdtXLi.png" group-title="Lạng Sơn",Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
-#EXTINF:-1 tvg-id="sonla.vn" tvg-logo="https://imgur.com/swyroSz" group-title="Sơn La",Sơn La
+#EXTINF:-1 tvg-id="sonla.vn" tvg-logo="https://i.imgur.com/swyroSz.png" group-title="Sơn La",Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 tvg-id="PhuTho.vn" tvg-logo="dang_cho_link_url" group-title="Phú Thọ",Phú Thọ
 https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
-#EXTINF:-1 tvg-id="quangninhtv1.vn" tvg-logo="https://imgur.com/cYauMzp" group-title="Quảng Ninh",Quảng Ninh 1
+#EXTINF:-1 tvg-id="quangninhtv1.vn" tvg-logo="https://i.imgur.com/cYauMzp.png" group-title="Quảng Ninh",Quảng Ninh 1
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="quangninhtv3.vn" tvg-logo="https://imgur.com/AheAmMj" group-title="Quảng Ninh",Quảng Ninh 3
+#EXTINF:-1 tvg-id="quangninhtv3.vn" tvg-logo="https://i.imgur.com/AheAmMj.png" group-title="Quảng Ninh",Quảng Ninh 3
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
-#EXTINF:-1 tvg-id="htvdaihanoi.vn" tvg-logo="https://imgur.com/GOCLbK5" group-title="Thủ đô Hà Nội",Hà Nội 1
+#EXTINF:-1 tvg-id="htvdaihanoi.vn" tvg-logo="https://i.imgur.com/GOCLbK5_d.webp?maxwidth=760&fidelity=grand" group-title="Thủ đô Hà Nội",Hà Nội 1
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w1863278898_b1064000_slen.m3u8
 #EXTINF:-1 tvg-id="haiphong3.vn" tvg-logo="https://imgur.com/FEvJhRf" group-title="TP Hải Phòng",Hải Phòng 3
 https://live.haiduongtv.vn/live/285857e204bb558402db3b431e183b6638d/chunklist.m3u8
@@ -124,5 +124,6 @@ https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="CaMau.vn" tvg-logo="https://i.imgur.com/mZTPSg2.png" group-title="Cà Mau",Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
+
 
 
