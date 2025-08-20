@@ -18,6 +18,10 @@ https://tv.ddns.vn/tv/vtv7fhd/index.m3u8
 https://hls.mskycdn.online/tv/vtv8fhd/index.m3u8
 #EXTINF:-1 tvg-id="VTV9.vn@HD" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="VTV",VTV9
 https://hls.mskycdn.online/tv/vtv9fhd/index.m3u8
+#EXTINF:-1 tvg-id="anninhtv.vn" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Thủ đô Hà Nội",An Ninh TV
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="QPVN.vn" tvg-logo="pending_url" group-title="Thủ đô Hà Nội",Quốc phòng Việt Nam
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="VTVCanTho.vn@HD" tvg-logo="https://i.imgur.com/Mqmbsj4.png" group-title="VTV",VTV Cần Thơ
 https://hls.mskycdn.online/tv/vtvctfhd/index.m3u8
 #EXTINF:-1 tvg-id="caobang.vn" tvg-logo="https://imgur.com/RUJmK5D" group-title="Cao Bằng",Cao Bằng
@@ -32,22 +36,14 @@ https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 tvg-id="PhuTho.vn" tvg-logo="dang_cho_link_url" group-title="Phú Thọ",Phú Thọ
 https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
-#EXTINF:-1 tvg-id="bacninhbtv.vn" tvg-logo="https://imgur.com/w9zRT7l" group-title="Bắc Ninh",Bắc Ninh
-https://1253668792.e.cdneverest.net/Q2RbMU6AWCtp1OtzFK1ksw/1755646442/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
 #EXTINF:-1 tvg-id="quangninhtv1.vn" tvg-logo="https://imgur.com/cYauMzp" group-title="Quảng Ninh",Quảng Ninh 1
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangninhtv3.vn" tvg-logo="https://imgur.com/AheAmMj" group-title="Quảng Ninh",Quảng Ninh 3
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="htvdaihanoi.vn" tvg-logo="https://imgur.com/GOCLbK5" group-title="Thủ đô Hà Nội",Hà Nội 1
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w1863278898_b1064000_slen.m3u8
-#EXTINF:-1 tvg-id="haiphong.vn" tvg-logo="https://imgur.com/SDYM0YD" group-title="TP Hải Phòng",Hải Phòng 1
-https://1253562137.e.cdneverest.net/Wpb75ZjY1LP5kPc3p5WP6A/1755640635/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
-#EXTINF:-1 tvg-id="thpplus.vn" tvg-logo="https://imgur.com/BINSE9U" group-title="TP Hải Phòng",THP Plus
-https://1253562137.e.cdneverest.net/1385ZFRTwGZGrjJGpzsTfQ/1755646674/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphong3.vn" tvg-logo="https://imgur.com/FEvJhRf" group-title="TP Hải Phòng",Hải Phòng 3
 https://live.haiduongtv.vn/live/285857e204bb558402db3b431e183b6638d/chunklist.m3u8
-#EXTINF:-1 tvg-id="hungyen.vn" tvg-logo="https://imgur.com/d1nMMfJ" group-title="Hưng Yên",Hưng Yên
-https://1253218859.e.cdneverest.net/Ro316hBv6RynoFtVquT6QA/1755646736/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
 #EXTINF:-1 tvg-id="thanhhoa.vn" tvg-logo="https://imgur.com/jSFiPu8" group-title="Thanh Hoá",Thanh Hoá
 https://s3-fpt-cdn.sohatv.vn/live/pull/Y5Kan2X7I7GHo4VN/thth-live/eVc6tyHuFZLQYgmX/337a54767a7233703637564336316a6d2ebb3ade20772e5a773021062d269eb7de671a727cbe461b2e31aa3814f8931a9eeb4ca4b6f72737a4cabf8a820edd1e3c63a163404d2f7cabde8d5ed7698c3a5c7235bd497c659a7534bd1619a1e3589148c6cc17d264c6e9a4e457990c95b5570cfd0ad05fa8fd85033e0a92d9cc49c00b9428a5679a4281bb48e8a73ffe4823f8fcaa9bf4348249abfdc052d375abf937d9eee0839ae3ad00678f2a3c4832/720.m3u8
 #EXTINF:-1 tvg-id="ngheantv.vn" tvg-logo="https://imgur.com/oLJJNWP" group-title="Nghệ An",Nghệ An
@@ -82,8 +78,10 @@ https://vc.101vn.com/htv/htvcmb.php?id=2631
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="HTV3.vn" tvg-logo="https://i.postimg.cc/Zq4xXNZs/HTV3-logo-2018.png" group-title="TP-HCM",HTV3
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="HTV4.vn" tvg-logo="https://i.postimg.cc/DyzkVw0R/Logo-HTV-Key.png" group-title="TP-HCM",HTV Key
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="HTV7.vn" tvg-logo="https://i.postimg.cc/fyCZR0kb/HTV7-logo-2015.png" group-title="TP-HCM",HTV7
-http://125hvt.ddns.net:21585/htv7/tracks-v1a1/mono.m3u8
+https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="HTV9.vn@HD" tvg-logo="https://i.postimg.cc/DzGTbNmH/HTV9-logo-2015.png" group-title="TP-HCM",HTV9
 http://125hvt.ddns.net:21585/htv9/index.m3u8
 #EXTINF:-1 tvg-id="HTVSports.vn" tvg-logo="https://i.postimg.cc/Y2ZTQRBw/HTV-Th-thao-logo-2022.png" group-title="TP-HCM",HTV Thể Thao
