@@ -9,6 +9,7 @@ LƯU Ý: Một số kênh như ĐN-NRTV1-2 (Đồng Nai); BTV Bình Dương; BRT
 
 - Copy link .m3u, chọn Add your first playlist, ở mục "or import from URL" dán vào và "Import Playlist"
 
+*Ngoài ra còn một vài kênh xem trên Box Android không sao nhưng trên PC thì lỗi, và nếu có thiếu kênh trong danh sách thì do mấy anh CDN chống sniffing căng quá :((
   
 # Link IPTV mới nhất:
 ```markdown
