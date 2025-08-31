@@ -52,8 +52,11 @@ https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="hanoi1.vn" tvg-logo="https://i.imgur.com/GOCLbK5_d.webp?maxwidth=760&fidelity=grand" group-title="Thủ đô Hà Nội",Hà Nội 1
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w1863278898_b1064000_slen.m3u8
-
-
+#EXTINF:-1 tvg-id="hanoi2.vn" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_640_360.png" group-title="Thủ đô Hà Nội",Hà Nội 2
+https://xem.hoiquan.Click/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hanoi2.4k.vn" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png" group-title="Thủ đô Hà Nội",Hà Nội 2 (Độ phân giải 4K)
+https://xem.hoiquan.Click/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
 #EXTINF:-1 tvg-id="haiphong.vn" tvg-logo="https://i.postimg.cc/RZ0z0JJJ/THP-logo.png" group-title="TP. Hải Phòng",Hải Phòng
 https://xem.hoiquan.Click/CoBan/hai-phong/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="thpplus.vn" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286589630/5fdc1e65fc1b_640_360.png" group-title="TP. Hải Phòng",THP Plus
@@ -146,6 +149,7 @@ https://xem.hoiquan.Click/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="CaMau.vn" tvg-logo="https://i.imgur.com/mZTPSg2.png" group-title="Cà Mau",Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
+
 
 
 
