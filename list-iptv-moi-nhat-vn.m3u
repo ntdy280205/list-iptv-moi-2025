@@ -134,8 +134,8 @@ https://test-rtmp-vlive.vtvlive.vn/live/thvl2lan2hd_tms_720p_vlive-transmux.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-logo="https://i.imgur.com/nDozlEP.png" group-title="Vĩnh Long",Vĩnh Long 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-logo="https://i.imgur.com/hSdSUqx.png" group-title="Vĩnh Long",Vĩnh Long 5 (đang chờ link)
-https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1996488865.m3u8
+#EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-logo="https://i.imgur.com/hSdSUqx.png" group-title="Vĩnh Long",Vĩnh Long 5
+https://rr6---sn-8qj-nbos7.googlevideo.com/videoplayback?expire=1756647617&ei=YfyzaIGEIZ6W1d8Phv6e0QM&ip=2001%3Aee0%3A553c%3A7350%3A91ca%3Ac447%3A6b94%3A533&id=o-AO4N4oaUkKyBlTtzgmDrQt6oYbqzBNbUp7N_j0DgJbOx&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1756626017%2C&mh=hB&mm=31%2C29&mn=sn-8qj-nbos7%2Csn-8qj-nbol7&ms=au%2Crdu&mv=m&mvi=6&pcm2cms=yes&pl=48&rms=au%2Cau&initcwndbps=2200000&spc=l3OVKTdrbgCp9ecP9QYf2Rh0qDEdQSnmrdW0s9HvpTQcXuejsByHNuAwKPGmWxDHcd4&svpuc=1&ns=nZLeAkUySOgny98DbqFcX94Q&sabr=1&rqh=1&mt=1756625613&fvip=5&keepalive=yes&fexp=51355912%2C51552689%2C51565115%2C51565681%2C51580968&c=WEB&n=6H_NAJsVMABFZw&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRQIgbI2mqE-_GjYajKd3dIZCzvY0XcknL76jHTjLCJ6uxiECIQDs7JSUZOnkBfqc5-7kIhjb7gMmzs4Z1T0N3aSI_OZDKA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgTHU9s-n8W74R_YCh2Peyq35bn1rdftCyPdQVFqgqf2ACIH3HCFixY2DAeUfiwoHQZwxnxHVeqmt6Vu9PUPTDybEi&cpn=m4zR9ausDGg-Y2Fe&cver=2.20250829.01.00&rn=7&alr=yes
 #EXTINF:-1 tvg-id="THTPCT1.vn" tvg-logo="https://i.imgur.com/hYGI22C.png" group-title="TP. Cần Thơ",Cần Thơ 1
 https://live.canthotv.vn/live/tv/chunklist_w1436136934.m3u8
 #EXTINF:-1 tvg-id="THTPCT2.vn" tvg-logo="https://i.imgur.com/QinDYaK.jpeg" group-title="TP. Cần Thơ",Cần Thơ 2
@@ -150,6 +150,7 @@ https://xem.hoiquan.Click/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="CaMau.vn" tvg-logo="https://i.imgur.com/mZTPSg2.png" group-title="Cà Mau",Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
+
 
 
 
