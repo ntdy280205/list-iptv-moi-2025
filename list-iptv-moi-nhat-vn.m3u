@@ -21,7 +21,7 @@ https://hls.mskycdn.online/tv/vtv8fhd/index.m3u8
 #EXTINF:-1 tvg-id="VTV9.vn@HD" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="VTV",VTV9
 https://hls.mskycdn.online/tv/vtv9fhd/index.m3u8
 #EXTINF:-1 tvg-id="VietnamToday.vn@HD" tvg-logo="https://i.postimg.cc/fTCNZfyh/Vietnam-Today-07-2025-v2.png" group-title="VTV",Vietnam Today
-Lên sóng từ 7/9/2025, sẽ cập nhật link sau 
+https://raw.githubusercontent.com/ntdy280205/list-iptv-moi-2025/main/pending_vt.png
 #EXTINF:-1 tvg-id="anninhtv.vn" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Thủ đô Hà Nội",An Ninh TV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="QPVN.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png" group-title="Thủ đô Hà Nội",Quốc phòng Việt Nam
@@ -150,6 +150,7 @@ https://xem.hoiquan.Click/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="CaMau.vn" tvg-logo="https://i.imgur.com/mZTPSg2.png" group-title="Cà Mau",Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
+
 
 
 
