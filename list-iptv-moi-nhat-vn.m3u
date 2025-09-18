@@ -148,8 +148,11 @@ https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 https://xem.hoiquan.Click/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="AnGiang3.vn" tvg-logo="https://i.imgur.com/3x8vDXr.png" group-title="An Giang",An Giang 3
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 tvg-id="AnGiang3t.vn" tvg-logo="https://i.imgur.com/3x8vDXr.png" group-title="An Giang",An Giang 3 (Test nginx)
+https://live.freevietv.dpdns.org/tmp_hls/atv3/index.m3u8
 #EXTINF:-1 tvg-id="CaMau.vn" tvg-logo="https://i.imgur.com/mZTPSg2.png" group-title="Cà Mau",Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
+
 
 
 
