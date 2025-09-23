@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="VTV1.vn" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="VTV",VTV1
-http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8
+https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="VTV",VTV2
 https://tv.ddns.vn/tv/vtv2fhd/index.m3u8
 #EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="VTV",VTV3
