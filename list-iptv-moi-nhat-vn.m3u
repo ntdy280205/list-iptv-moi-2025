@@ -153,7 +153,8 @@ https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="CaMau.vn" tvg-logo="https://i.imgur.com/mZTPSg2.png" group-title="Cà Mau",Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="testchannel1" tvg-logo="https://placehold.co/600x400/000000/FFFFFF.png" group-title="Test",Test Channel
-https://live.freevietv.dpdns.org/tmp_hls/ftv/index.m3u8
+https://live.freevietv.dpdns.org/kenh-tv/ftv/index.m3u8
+
 
 
 
