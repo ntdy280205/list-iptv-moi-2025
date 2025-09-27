@@ -57,7 +57,7 @@ https://xem.hoiquan.Click/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hn4k.vn" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png" group-title="Kênh địa phương",Hà Nội 2 - 4K
 https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
 #EXTINF:-1 tvg-id="haiphong.vn" tvg-logo="https://i.postimg.cc/RZ0z0JJJ/THP-logo.png" group-title="Kênh địa phương",Hải Phòng
-https://xem.hoiquan.Click/CoBan/hai-phong/TuyetDoiKhongKinhDoanh.m3u8
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
 #EXTINF:-1 tvg-id="thpplus.vn" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286589630/5fdc1e65fc1b_640_360.png" group-title="Kênh địa phương",THP+
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphong3.vn" tvg-logo="https://i.imgur.com/FEvJhRf.png" group-title="Kênh địa phương",Hải Phòng 3
@@ -154,6 +154,7 @@ https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="testchannel1" tvg-logo="https://placehold.co/600x400/000000/FFFFFF.png" group-title="Kênh thử nghiệm",Thử Nghiệm 1 FTV
 https://live.freevietv.dpdns.org/kenh-tv/ftv/index.m3u8
+
 
 
 
