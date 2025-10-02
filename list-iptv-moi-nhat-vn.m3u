@@ -143,7 +143,7 @@ https://live.canthotv.vn/live/tv/chunklist_w1436136934.m3u8
 #EXTINF:-1 tvg-id="CanTho2.vn" tvg-logo="https://i.imgur.com/NZezuuS.png" group-title="Kênh địa phương",Cần Thơ 2
 https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
 #EXTINF:-1 tvg-id="CanTho3.vn" tvg-logo="https://i.imgur.com/TKqFX5v.png" group-title="Kênh địa phương",Cần Thơ 3
-https://live.canthotv.vn/live/cs3/chunklist_w152122101.m3u8
+https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:-1 tvg-id="AnGiang1.vn" tvg-logo="https://i.imgur.com/wSfT3bJ.png" group-title="Kênh địa phương",An Giang 1
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="AnGiang2.vn" tvg-logo="https://i.imgur.com/1UzQ2cv.png" group-title="Kênh địa phương",An Giang 2
@@ -152,8 +152,7 @@ https://xem.hoiquan.Click/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="CaMau.vn" tvg-logo="https://i.imgur.com/mZTPSg2.png" group-title="Kênh địa phương",Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 tvg-id="testchannel1" tvg-logo="https://placehold.co/600x400/000000/FFFFFF.png" group-title="Kênh thử nghiệm",Thử Nghiệm 1 FTV
-https://live.freevietv.dpdns.org/tmp_hls/ftv/index.m3u8
+
 
 
 
