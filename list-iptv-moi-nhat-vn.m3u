@@ -87,7 +87,7 @@ https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 #EXTINF:-1 tvg-id="khanhhoa.vn" tvg-logo="https://i.imgur.com/LZlrsr3.png" group-title="Kênh địa phương",Khánh Hoà
 https://tv.ktv.org.vn/hls/ktv1.m3u8
 #EXTINF:-1 tvg-id="khanhhoa1.vn" tvg-logo="https://i.imgur.com/wfcsKCW.png" group-title="Kênh địa phương",Khánh Hoà 1
-https://618b88f69e53b.streamlock.net/NTV/ntvtv/chunklist_w1477107407.m3u8
+https://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="ltv1.vn" tvg-logo="https://i.imgur.com/03j6SN1_d.webp?maxwidth=760&fidelity=grand" group-title="Kênh địa phương",Lâm Đồng 1
 https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="ltv2bt.vn" tvg-logo="https://i.imgur.com/wi8Aua6.png" group-title="Kênh địa phương",Lâm Đồng 2
@@ -112,6 +112,8 @@ https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="HTVSports.vn" tvg-logo="https://i.postimg.cc/Y2ZTQRBw/HTV-Th-thao-logo-2022.png" group-title="HTV",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="BTV9.vn" tvg-logo="https://bchannel.vn/wp-content/uploads/bfi_thumb/Logo-BTV9-Bchannelv2-q68qnhi49jh16dabrhrd7kq9yll6tl96rwgoyv34e8.png" group-title="HTV - Đài PTTH TP.HCM",BTV9 Bchannel
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="TayNinh1.vn" tvg-logo="https://i.imgur.com/D2XmgvT.png" group-title="Kênh địa phương",Tây Ninh 1
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-1 tvg-id="TayNinh2.vn" tvg-logo="https://i.imgur.com/qYKmRCp.png" group-title="Kênh địa phương",Tây Ninh 2
@@ -119,16 +121,16 @@ https://cmcdp2.vtvdigital.vn/hls/TAYNINHTV/03.m3u8
 #EXTINF:-1 tvg-id="DongThap.vn@HD" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292788373/2f4bec83df66_640_360.png" group-title="Kênh địa phương",Đồng Tháp 1
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="DongThap2.vn" tvg-logo="https://i.imgur.com/sbATNFw.png" group-title="Kênh địa phương",Đồng Tháp 2
-https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w131702163.m3u8
-#EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-logo="https://i.imgur.com/Ab6D8Bv.png" group-title="THVL",Vĩnh Long 1
+https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-logo="https://i.imgur.com/Ab6D8Bv.png" group-title="Kênh địa phương",Vĩnh Long 1
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="VinhLongTV2.vn" tvg-logo="https://i.imgur.com/zGv54Ed.png" group-title="THVL",Vĩnh Long 2
+#EXTINF:-1 tvg-id="VinhLongTV2.vn" tvg-logo="https://i.imgur.com/zGv54Ed.png" group-title="Kênh địa phương",Vĩnh Long 2
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="VinhLongTV3.vn" tvg-logo="https://i.imgur.com/DSgi43N.png" group-title="THVL",Vĩnh Long 3
+#EXTINF:-1 tvg-id="VinhLongTV3.vn" tvg-logo="https://i.imgur.com/DSgi43N.png" group-title="Kênh địa phương",Vĩnh Long 3
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-logo="https://i.imgur.com/VTCUyFo.png" group-title="THVL",Vĩnh Long 4
+#EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-logo="https://i.imgur.com/VTCUyFo.png" group-title="Kênh địa phương",Vĩnh Long 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-logo="https://i.imgur.com/hSdSUqx.png" group-title="THVL",Vĩnh Long 5
+#EXTINF:-1 tvg-id="VinhLongTV5.vn" tvg-logo="https://i.imgur.com/hSdSUqx.png" group-title="Kênh địa phương",Vĩnh Long 5
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="CanTho1.vn" tvg-logo="https://i.imgur.com/zbKZzce.png" group-title="Kênh địa phương",Cần Thơ 1
 https://live.canthotv.vn/live/tv/chunklist_w1436136934.m3u8
@@ -144,6 +146,7 @@ https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="CaMau.vn" tvg-logo="https://i.imgur.com/mZTPSg2.png" group-title="Kênh địa phương",Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
+
 
 
 
