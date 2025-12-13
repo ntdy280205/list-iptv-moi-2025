@@ -137,7 +137,7 @@ https://live.canthotv.vn/live/tv/chunklist_w1436136934.m3u8
 #EXTINF:-1 tvg-id="CanTho2.vn" tvg-logo="https://i.imgur.com/NZezuuS.png" group-title="Kênh địa phương",Cần Thơ 2
 https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="CanTho3.vn" tvg-logo="https://i.imgur.com/TKqFX5v.png" group-title="Kênh địa phương",Cần Thơ 3
-https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="AnGiang1.vn" tvg-logo="https://i.imgur.com/YCCv4a2.png" group-title="Kênh địa phương",An Giang 1
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="AnGiang2.vn" tvg-logo="https://i.imgur.com/aQLPpRj.png" group-title="Kênh địa phương",An Giang 2
@@ -146,6 +146,7 @@ https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="CaMau.vn" tvg-logo="https://i.imgur.com/mZTPSg2.png" group-title="Kênh địa phương",Cà Mau
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
+
 
 
 
