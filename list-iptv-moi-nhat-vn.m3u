@@ -115,7 +115,7 @@ https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="BTV9.vn" tvg-logo="https://bchannel.vn/wp-content/uploads/bfi_thumb/Logo-BTV9-Bchannelv2-q68qnhi49jh16dabrhrd7kq9yll6tl96rwgoyv34e8.png" group-title="HTV - Đài PTTH TP.HCM",BTV9 Bchannel
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="TayNinh1.vn" tvg-logo="https://i.imgur.com/D2XmgvT.png" group-title="Kênh địa phương",Tây Ninh 1
-https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="TayNinh2.vn" tvg-logo="https://i.imgur.com/qYKmRCp.png" group-title="Kênh địa phương",Tây Ninh 2
 https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="DongThap.vn@HD" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292788373/2f4bec83df66_640_360.png" group-title="Kênh địa phương",Đồng Tháp 1
@@ -146,6 +146,7 @@ https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="CaMau.vn" tvg-logo="https://i.imgur.com/mZTPSg2.png" group-title="Kênh địa phương",Cà Mau
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
+
 
 
 
