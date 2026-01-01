@@ -77,7 +77,7 @@ https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u
 #EXTINF:-1 tvg-id="DNRT2.vn" tvg-logo="https://i.imgur.com/RlPIP6t.png" group-title="Kênh địa phương",Đà Nẵng 2
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 #EXTINF:-1 tvg-id="quangngai.vn" tvg-logo="https://i.imgur.com/BNUKlVS.png" group-title="Kênh địa phương",Quảng Ngãi
-https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
+https://live.fptplay53.net/epzsd1/quangngai01_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="gialai.vn" tvg-logo="https://i.imgur.com/aQvWx2j.png" group-title="Kênh địa phương",Gia Lai
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="daklak.vn" tvg-logo="https://i.imgur.com/7CQqMeh.png" group-title="Kênh địa phương",Đắk Lắk
@@ -142,6 +142,7 @@ https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="CaMau.vn" tvg-logo="https://i.imgur.com/mZTPSg2.png" group-title="Kênh địa phương",Cà Mau
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
+
 
 
 
